@@ -16,7 +16,7 @@
 //= require turbolinks
 //= require_tree .
 
-var hide_score_spinner = function() {
+var hide_spinner = function() {
     $('#spinner').hide();
 }
 
